@@ -5,6 +5,7 @@
 ## Description
 
 Functional programming exercise
+An application for growing plants. It is a game where users can feed their plants. For now it is in development mode.
 
 <!-- [GitHub pages](https://vzubarieva.github.io/galactic-age-calculator) -->
 
