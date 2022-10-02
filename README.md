@@ -6,7 +6,7 @@
 
 Functional programming exercise
 
-[GitHub pages](https://vzubarieva.github.io/galactic-age-calculator)
+<!-- [GitHub pages](https://vzubarieva.github.io/galactic-age-calculator) -->
 
 ## Technologies Used
 
